@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Comprue</string>
+
+    <string name="st_plantel1">Casa Libertad</string>
+    <string name="st_plantel2">Centro Histórico</string>
+    <string name="st_plantel3">Cuautepec</string>
+    <string name="st_plantel4">Del Valle</string>
+    <string name="st_plantel5">San Lorenzo Tezonco</string>
+    <string name="action_settings">Settings</string>
+</resources>
