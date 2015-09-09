@@ -1,10 +1,11 @@
 <resources>
-    <string name="app_name">Comprue</string>
+    <string name="app_name">Comedor UACM</string>
 
-    <string name="st_plantel1">Casa Libertad</string>
-    <string name="st_plantel2">Centro Histórico</string>
-    <string name="st_plantel3">Cuautepec</string>
-    <string name="st_plantel4">Del Valle</string>
-    <string name="st_plantel5">San Lorenzo Tezonco</string>
+    <string name="title_section1">Casa Libertad</string>
+    <string name="title_section2">Centro Histórico</string>
+    <string name="title_section3">Cuautepec</string>
+    <string name="title_section4">Del Valle</string>
+    <string name="title_section5">San Lorenzo Tezonco</string>
+
     <string name="action_settings">Settings</string>
 </resources>
